@@ -1,8 +1,8 @@
 #!/usr/bin/node
-import { argv } from 'node:process';
-if (!argv) {
+const numOfArgvs = process.argv.length;
+if (numOfArgvs === 2) {
   console.log('No Argument');
-} else if (argv.length === 1) {
+} else if (numOfArgvs === 3) {
   console.log('Argument Found');
 } else {
   console.log('Arguments Found');

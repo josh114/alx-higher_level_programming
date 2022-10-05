@@ -1,0 +1,1 @@
+## JavsScript Objects Scopes Closures

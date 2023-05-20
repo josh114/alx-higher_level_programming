@@ -1,3 +1,6 @@
-# python if/else loops and functions projects
+# Python - if/else, loops, functions
 
-# 0-positive_or_negative checks if a number randomly generated is positive or negative then prints the number is positive or negative or zero
+In this project, I began utilizing conditionals and loops in Python by using `if`,
+`if ... else`, `break`, `continue`, `pass`, and `range` statements with `while` and
+`for` loops. I practiced writing my own Python functions while learning about scope of
+variables, tracebacks, and arithmetic operators.
